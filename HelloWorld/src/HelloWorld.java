@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("Hello World!");
 		System.out.println("Und hier sind wir im Git unterwegs");
 		System.out.println("und wieder zurück");
+		System.out.println("Habe noch nicht verstanden wann upload oder download funktioniert");
 
 	}
 
